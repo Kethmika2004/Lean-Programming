@@ -1,10 +1,6 @@
 name = "LeanPractice"
 version = "0.1.0"
-defaultTargets = ["leanpractice"]
+defaultTargets = ["LeanPractice"]
 
 [[lean_lib]]
 name = "LeanPractice"
-
-[[lean_exe]]
-name = "leanpractice"
-root = "Main"
